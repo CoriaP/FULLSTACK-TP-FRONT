@@ -122,7 +122,7 @@
 
 /*Fuente de letra*/
 * {
-  font-family: sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 /*HEADER*/
@@ -418,8 +418,8 @@ label {
   height: 1.5rem;
 }
 
-.afip2 {
-  width: 100%;
+div.afip2 {
+  width: auto;
   height: 1.5rem;
 }
 

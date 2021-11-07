@@ -101,7 +101,7 @@
 
 /*Fuente de letra*/
 * {
-  font-family: sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 /*HEADER*/
@@ -249,6 +249,7 @@ img {
   object-fit: cover
 }
 
+
 /*MERCADO CON LOS QUE OPERAMOS*/
 .subtitulos {
   font-size: 2rem;
@@ -309,7 +310,8 @@ img {
   grid-column: 1/13;
   display: flex;
   justify-content: center;
-  align-content: center
+  align-content: center;
+
 }
 
 /*FOOTER TOP*/
@@ -376,6 +378,7 @@ label {
 .footerbottom div {
   width: 1.5rem;
   height: 1.5rem;
+
 }
 
 .afip1 {
@@ -383,9 +386,10 @@ label {
   height: 1.5rem;
 }
 
-.afip2 {
-  width: 100%;
+div.afip2 {
+  width: auto;
   height: 1.5rem;
+
 }
 
 /*CONTACTO FLOTANTE*/
